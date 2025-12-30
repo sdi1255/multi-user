@@ -1,26 +1,13 @@
-# Streamlit 웹 프레임워크
 streamlit>=1.28.0
-
-# Supabase 클라이언트
 supabase>=2.0.0
-
-# LangChain 핵심 패키지
 langchain>=0.3.0
 langchain-core>=0.3.0
-langchain-openai>=0.3.0
 langchain-community>=0.3.0
+langchain-openai>=0.3.0
 langchain-text-splitters>=0.3.0
-
-# LangChain 선택적 패키지 (다중 LLM 지원)
 langchain-anthropic>=0.3.0
 langchain-google-genai>=2.0.0
-
-# LLM SDK
 openai>=1.0.0
 anthropic>=0.49.0
-
-# PDF 처리
 pypdf>=5.0.0
-
-# 환경 변수 관리
 python-dotenv>=1.0.0
